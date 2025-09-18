@@ -7,6 +7,8 @@ import Footer from './components/Footer';
 import AnimatedBackground from './components/AnimatedBackground';
 import './App.css';
 
+// Force rebuild - clean QuantCompt site
+
 function App() {
   return (
     <div className="App">
