@@ -10,7 +10,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1 style={{color: 'white', padding: '50px'}}>QuantCompt Test - If you see this, React is working!</h1>
       <AnimatedBackground />
       <Header />
       <Hero />
